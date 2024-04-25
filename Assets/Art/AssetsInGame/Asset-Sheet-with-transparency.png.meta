@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Asset-Sheet-with-transparency_0: 5490117865553596762
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
